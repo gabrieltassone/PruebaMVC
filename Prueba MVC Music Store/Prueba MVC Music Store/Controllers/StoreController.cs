@@ -12,7 +12,7 @@ namespace Prueba_MVC_Music_Store.Controllers
         // GET: /Store/
         public string Index()
         {
-            return "Hello from Store.Index()";
+            return "Hello from Store.Index() 2";
         }
         //
         // GET: /Store/Browse?genre=?Disco
